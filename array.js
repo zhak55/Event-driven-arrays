@@ -1,5 +1,5 @@
-// @param {Array | empty} [arr]
-function array( arr ) {
+ // @param {Array | empty} [arr]
+ function array( arr ) {
     var p = Array.prototype
       , o = {}
       , subs = {};
