@@ -1,7 +1,7 @@
 
 /*!
- * msgBox v 1.0 
- * by Roman Zhak ( https://github.com/zhak55/msgBox )
+ * Event driven arrays : idea
+ * by Roman Zhak ( https://github.com/zhak55/Event-driven-arrays )
  * Licensed under MIT ()
  */
  
