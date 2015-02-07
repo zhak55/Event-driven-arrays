@@ -1,8 +1,11 @@
-
+// @param {Array | empty} [arr]
 function array( arr ) {
     var p = Array.prototype
       , o = {}
       , subs = {};
+    
+    // check 
+    arr || ( arr = [] );
     
     // Add one handler to event type
     //  @param {String} [type] - event type accorting to methods of array 
