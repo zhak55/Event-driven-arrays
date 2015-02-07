@@ -1,4 +1,10 @@
- // @param {Array | empty} [arr]
+
+/*!
+ * msgBox v 1.0 
+ * by Roman Zhak ( https://github.com/zhak55/msgBox )
+ * Licensed under MIT ()
+ */
+ 
  function array( arr ) {
     var p = Array.prototype
       , o = {}
@@ -51,4 +57,5 @@
     }
     
     return Object.create(o).constructor(); 
+    
 };
