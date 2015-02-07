@@ -1,3 +1,4 @@
+
 function array( arr ) {
     var p = Array.prototype
       , o = {}
