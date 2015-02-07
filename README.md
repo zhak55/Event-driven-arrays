@@ -17,6 +17,6 @@ var arr = array(["js", "css", "html"]);
      .push( "js" )
 
  function handler( elements, type ) {
-    console.log( type,  elements )
+    console.log.apply( console, arguments );
   }
 ```
