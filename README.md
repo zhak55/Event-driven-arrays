@@ -3,7 +3,7 @@
  
 ```
 var arr = array(["js", "css", "html"]);
-
+ // you can watch any changes with your array 
        arr 
         .on("push", handler )
         .on("unshift", handler )
@@ -18,6 +18,5 @@ var arr = array(["js", "css", "html"]);
 
  function handler( elements, type ) {
     console.log( type,  elements )
-    // remove handler   
   }
 ```
