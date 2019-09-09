@@ -1,7 +1,7 @@
 
 /*!
  * Event driven arrays : idea
- * by Roman Zhak ( https://github.com/zhak55/Event-driven-arrays )
+ * by Roman Zhak ()
  * Licensed under MIT ()
  */
  
